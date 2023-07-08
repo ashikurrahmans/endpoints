@@ -18,6 +18,14 @@ playground
 subscriptions
 api/graphql
 graph
+/v1/explorer
+/v1/graphiql
+/graph
+/graphql
+/graphql/console/
+/graphql.php
+/graphiql
+/graphiql.php
 v1/altair
 v1/explorer
 v1/graphiql

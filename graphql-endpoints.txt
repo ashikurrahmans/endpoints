@@ -21,6 +21,8 @@ graph
 /v1/explorer
 /v1/graphiql
 /graph
+/api
+/graphql/api
 /graphql
 /graphql/console/
 /graphql.php

